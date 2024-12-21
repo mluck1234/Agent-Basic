@@ -4,8 +4,6 @@ import json
 import streamlit as st
 import os
 
-load_dotenv()
-
 BASE_API_URL = "https://api.langflow.astra.datastax.com"
 LANGFLOW_ID = "b4411737-eb91-4a54-a535-00b2dbdee390"
 FLOW_ID = "25e48f60-62b0-4ee7-b434-517310e63389"
